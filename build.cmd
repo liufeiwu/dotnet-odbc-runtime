@@ -1,0 +1,1 @@
+docker build -t dotnet-odbc:3.1 .
